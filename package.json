@@ -1,6 +1,6 @@
 {
   "name": "smart-memory-mcp",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Smart Memory MCP Server with intelligent context management",
   "main": "dist/smart-memory-mcp.js",
   "type": "module",
