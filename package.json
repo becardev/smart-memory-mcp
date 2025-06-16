@@ -5,7 +5,7 @@
   "main": "dist/smart-memory-mcp.js",
   "type": "module",
   "bin": {
-    "smart-memory-mcp": "./dist/smart-memory-mcp.js"
+    "smart-memory-mcp": "dist/smart-memory-mcp.js"
   },
   "scripts": {
     "build": "tsc",
